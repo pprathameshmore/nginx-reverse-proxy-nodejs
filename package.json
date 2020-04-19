@@ -1,0 +1,25 @@
+{
+  "name": "nginx-reverse-proxy-nodejs",
+  "version": "1.0.0",
+  "description": "Simple nginx with NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pprathameshmore/nginx-reverse-proxy-nodejs.git"
+  },
+  "keywords": [
+    "nginx"
+  ],
+  "author": "Prathamesh More",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pprathameshmore/nginx-reverse-proxy-nodejs/issues"
+  },
+  "homepage": "https://github.com/pprathameshmore/nginx-reverse-proxy-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
